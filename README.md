@@ -2,7 +2,7 @@
 
 Nesta atividade criamos um sistema WEB usando o JavaScript que cria uma lista de tarefas.
 
-Na página WEB, há um input para receber a tarefa, ao clicar no botão “criar tarefa”, ou apertar o enter, o sistema vai criando uma lista com as informações inseridas.
+Na página WEB, há um input para receber a tarefa, e ao clicar no botão “criar tarefa”, ou apertar o enter, o sistema vai criando uma lista com as informações inseridas.
 
 O intuito desta atividade foi utilizar diversos recursos do JavaScript, como as funções, addEventListener, e o localStorage.
 
